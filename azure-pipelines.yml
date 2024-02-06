@@ -1,5 +1,5 @@
 # ASP.NET
-- task: DotNetCoreCLI@2
+- task: 
   inputs:
     command: 'build'
 # Build and test ASP.NET projects.
